@@ -1,0 +1,3 @@
+Original integration contributions are distributed under the root MIT license.
+Any code derived from autoclaw-cc/xiaohongshu-skills remains subject to its preserved copyright and MIT notice in third-party/xiaohongshu-skills.LICENSE.
+OpenClaw and provider SDKs are external dependencies and are not relicensed by this repository.
